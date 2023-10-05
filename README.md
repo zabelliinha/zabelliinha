@@ -17,7 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="eu" src="https://media0.giphy.com/media/mGJem8WciPfYGhWMyA/giphy.gif">
+  <img align="right" alt="eu" src="https://media2.giphy.com/media/j5ndtZIIDZSK78L5ss/giphy.gif?cid=ecf05e4779zwhkbaafrzkmlsz3x54wl8yk8y7oo7hy6240q7&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 </div>
   
   ##

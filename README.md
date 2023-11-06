@@ -1,8 +1,7 @@
 # Oii eu sou a isa!
 
 
-- 🔭 Estudando ciência da computação na universidade Anhembi Morumbi
-- 📫 Como entrar em contato comigo: isabellybtpo@gmail.com
+- 🔭 Estudando ciência da computação
 
 ##
 

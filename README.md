@@ -1,7 +1,7 @@
 # Oii eu sou a isa!
 
 
-- 🔭 Estudando ciência da computação
+- 🔭 Apaixonada pela tecnologia 
 
 ##
 
